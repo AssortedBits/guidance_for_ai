@@ -6,9 +6,12 @@ List of guidelines, by topic.
 
 This document is referenced in AI-consumed guidance files. When modifying this guidelines document, consider effects (including performance) upon AI consumers.
 
-## principles
+## Principles
 
-For personal coding principles, see [personal-principles.md](personal-principles.md).
+- Prefer DRY solutions.
+- Follow least-access and least-visibility principles.
+- Prefer standard, off-the-shelf solutions over custom ones when they fit.
+- Fail early and make errors explicit.
 
 ## topical guidelines
 
