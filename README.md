@@ -20,3 +20,5 @@ This document is referenced in AI-consumed guidance files. When modifying this g
 [C++](guidelines/cpp.md)
 
 [Static code analysis](guidelines/static_analysis.md)
+
+[Git](guidelines/git.md)
